@@ -1,0 +1,7 @@
+var rootUser = 'root';
+var rootPassword = '123456';
+var admin = db.getSiblingDB('admin');
+var user = 'wachiii';
+var passwd = '111111';
+show dbs
+show db
